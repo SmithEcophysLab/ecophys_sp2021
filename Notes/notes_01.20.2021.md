@@ -6,7 +6,7 @@
 - Discuss how to search for and read scientific literature
 
 ## Agenda
-1. Introductions (in pairs)
+1. Introductions (in groups)
 2. Pre-class questionnaire and discussion
 3. Course structure, goals, and [syllabus](../Syllabus)
 4. Discussion of semester outlook
@@ -15,7 +15,7 @@
 
 ## Homework
 - Navigate to course website and familiarize yourself with the structure.
-Contact [Nick](mailto:nick.smith@ttu.edu) if you have any issues.
+Contact [Dr. Smith](mailto:nick.smith@ttu.edu) if you have any issues.
 - Read over the [Syllabus](../Syllabus)
 - Read Chapin (2003). The full citation and link can be found in the 
 [Readings](../Readings) folder.
