@@ -32,3 +32,7 @@ and Web of Science (through the [TTU libraries](https://www.depts.ttu.edu/librar
 ## In-class notes
 
 ## Post class notes
+- could not get to the questionnaire
+	- will send over email
+- groups with online and in-class students are difficult
+- need to have Evan mute mics to reduce feedback
