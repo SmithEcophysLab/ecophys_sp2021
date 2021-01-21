@@ -19,6 +19,7 @@ Contact [Dr. Smith](mailto:nick.smith@ttu.edu) if you have any issues.
 - Read over the [Syllabus](../Syllabus)
 - Read Chapin (2003). The full citation and link can be found in the 
 [Readings](../Readings) folder.
+- Do literature feedback on Chapin article
 - Practice searching for scientific literature using 
 [Google Scholar](http://scholar.google.com)
 and Web of Science (through the [TTU libraries](https://www.depts.ttu.edu/library/)).
