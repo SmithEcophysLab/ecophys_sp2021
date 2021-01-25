@@ -1,7 +1,8 @@
 # Notes for class on January 26, 2021
 
 ## Objectives
-- Choose weekly topic leaders
+- Choose weekly topic preferences
+	- decision to be made on Thursday following collation
 - Introduce plant physiology and plant ecology
 - Discuss how plant ecophysiology influences larger scale processes
 - Think about the importance plant ecophysiology research
@@ -12,7 +13,7 @@
 	- secret ballot that Evan will collate (pick your favorite!)
 	- [file for inputting and storing leads](../Topic_leads/topic_leads.md)
 3. Lecture: "What is Plant Ecophysiology?"
-	- [slides](../Lecture_Slides/01.26.2021_what_is_ecophysiology.pdf)
+	- [slides](../Lecture_slides/slides_01.26.2021.pdf)
 4. Discussion of Chapin (2003) (Lead: Nick)
 5. Chat about class on Thursday
 	- Reich's plant traits manifesto
