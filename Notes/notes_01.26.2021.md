@@ -15,12 +15,14 @@
 3. Lecture: "What is Plant Ecophysiology?"
 	- [slides](../Lecture_slides/slides_01.26.2021.pdf)
 4. Discussion of Chapin (2003) (Lead: Nick)
+	- slides embedded in today's lecture slides (see #3 above)
 5. Chat about class on Thursday
 	- Reich's plant traits manifesto
 
 ## Homework
 - Read Reich (2014). The full citation and link can be found in the 
 [Readings](../Readings) folder.
+	- complete reading feedback for Reich (2014)
 
 ## In-class notes
 
