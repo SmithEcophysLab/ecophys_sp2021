@@ -3,7 +3,6 @@
 Graduate students will need to lead one section solo;
 undergraduates can lead in groups of 3-4
 
-1. Key processes (Feb 4)
 1. Light (Feb 11) - 
 2. Temperature (Feb 18) - 
 3. Water (Feb 25) - 
@@ -13,4 +12,4 @@ undergraduates can lead in groups of 3-4
 7. Life cycles/ontogeny/phenology (Apr 1) - 
 8. Competition (Apr 8) - 
 9. Symbioses (Apr 15) - 
-11. Scaling (Apr 22) - 
+10. Scaling (Apr 22) - 

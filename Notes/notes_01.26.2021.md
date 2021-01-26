@@ -9,6 +9,7 @@
 
 ## Agenda
 1. Open time for questions on course structure and materials
+	- Mention [user_guide.md](../user_guide.md)
 2. Weekly topic discussion: pick weekly topics and choose topic leaders
 	- secret ballot that Evan will collate (pick your favorite!)
 	- [file for inputting and storing leads](../Topic_leads/topic_leads.md)
