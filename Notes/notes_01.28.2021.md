@@ -5,11 +5,18 @@
 * Learn about large-scale plant trait research
 
 ## Agenda
-1. Announce topic leads and schedule
-2. Brief discussion of review papers
-3. Mini-quiz # 1 and discussion
+1. Check in out course materials
+	- are links working okay?
+	- any issues accessing book, reading material, etc.
+2. Yesterday's email
+	- feedback issues?
+	- online issues?
+	- background concerns?
+3. Announce topic leads and schedule
+4. Brief discussion of review papers
+5. Mini-quiz # 1 and discussion
 	- [link to miniquiz 1](../MiniQuizzes/miniquiz1_01.28.2021.md)
-4. Discussion of Reich (2014) (Lead: Nick)
+6. Discussion of Reich (2014) (Lead: Nick)
 	- [link to lecture slides](../Lecture_slides_/slides_01.28.2021.pdf)
 
 ## Homework

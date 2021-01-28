@@ -28,3 +28,5 @@
 ## In-class notes
 
 ## Post class notes
+- would be useful to set up a way for online students to speak to the class
+	- raise hand and mute mics (reduce feedback)
