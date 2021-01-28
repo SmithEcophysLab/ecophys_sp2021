@@ -28,3 +28,4 @@
 ## In-class notes
 
 ## Post class notes
+- not much time for Reich discussion (didn't get to slides 12-16)
