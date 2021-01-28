@@ -17,7 +17,7 @@
 5. Mini-quiz # 1 and discussion
 	- [link to miniquiz 1](../MiniQuizzes/miniquiz1_01.28.2021.md)
 6. Discussion of Reich (2014) (Lead: Nick)
-	- [link to lecture slides](../Lecture_slides_/slides_01.28.2021.pdf)
+	- [link to lecture slides](../Lecture_slides/slides_01.28.2021.pdf)
 
 ## Homework
 - Read Von Caemmerer and Farquhar (1981). The full citation and link can be found in the 
