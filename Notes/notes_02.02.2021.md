@@ -14,7 +14,7 @@
 - Read Smith and Dukes (2018). The full citation and link can be found in the 
 [Readings](../Readings) folder. The pdf can be found on BlackBoard.
 	- Complete your reading feedback
-- Start thinking about your deliverable idea
+- Start thinking about your review paper idea
 
 ## In-class notes
 
