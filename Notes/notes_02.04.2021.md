@@ -5,7 +5,9 @@
 
 ## Agenda
 1. Discuss finding papers on the library website
-	- [library.ttu.edu](library.ttu.edu)
+	- [https://www.depts.ttu.edu/library/](https://www.depts.ttu.edu/library/)
+	- Note: link has been updated, so should be functional
+	
 2. Mini-quiz 2
 	- [link to miniquiz](../MiniQuizzes/miniquiz2_02.04.2021.md)
 3. Time for questions and discussion about plant physiological processes
