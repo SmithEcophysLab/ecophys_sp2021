@@ -5,7 +5,7 @@
 
 ## Agenda
 1. Discuss finding papers on the library website
-	- [library.ttu.edu](https://www.depts.ttu.edu/library/)
+	- [https://www.depts.ttu.edu/library/](https://www.depts.ttu.edu/library/)
 	- Note: link has been updated, so should be functional
 	
 2. Mini-quiz 2
