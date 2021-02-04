@@ -23,3 +23,6 @@
 ## In-class notes
 
 ## Post class notes
+- not enough time for last slides in the lecture (the ones with questions)
+	- but good discussion about the paper
+		- lots of methodology questions
