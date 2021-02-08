@@ -1,9 +1,9 @@
 # Notes for class on February 9, 2021
 
 ## Objectives
-* Discuss physiological responses to light
-* Discuss variations in light environments in ecological systems
-* Examine the difference between instantaneous, acclimation, and adaptation responses to 
+- Discuss physiological responses to light
+- Discuss variations in light environments in ecological systems
+- Examine the difference between instantaneous, acclimation, and adaptation responses to 
 light availability, including differences in plant traits
 
 ## Agenda
