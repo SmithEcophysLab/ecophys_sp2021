@@ -3,7 +3,7 @@
 Graduate students will need to lead one section solo;
 undergraduates can lead in groups of 3-4
 
-1. Light (Feb 11) - Melody Barraza, Baleigh Oliver, Ashley Giron
+1. Light (Feb 11) - Melody Barraza, Lamia Zuberi, Ashley Giron
 2. Temperature (Feb 18) - Peter Eludini
 3. Water (Feb 25) - Sahar Rezaei
 4. CO2 (Mar 4) - Bishwoyog Bhattarai
@@ -12,4 +12,4 @@ undergraduates can lead in groups of 3-4
 7. Life cycles/ontogeny/phenology (Apr 1) - Mylea Lovell
 8. Competition (Apr 8) - Ethan Triplett
 9. Symbioses (Apr 15) - Azaj Mahmud
-10. Scaling (Apr 22) -  Rose Williams, Lamia Zuberi, Megan Strawn
+10. Scaling (Apr 22) -  Rose Williams, Baleigh Oliver, Megan Strawn
