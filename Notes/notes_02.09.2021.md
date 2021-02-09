@@ -21,3 +21,4 @@ light availability, including differences in plant traits
 ## In-class notes
 
 ## Post class notes
+- got through the lecture with some time to discuss lit review ideas
