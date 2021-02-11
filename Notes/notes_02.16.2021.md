@@ -8,10 +8,12 @@
 of biosphere-atmosphere C exchange
 
 ## Agenda
-1. Lecture on temperature
+1. Go over last week's miniquiz
+	- [link to miniquiz 3](../MiniQuizzes/miniquiz3_02.11.2021.md)
+2. Lecture on temperature
 	- [Lecture slides](../Lecture_Slides/slides_02.16.2021.pdf)
-2. Additional time for discussion of Atkin and Tjoelker (2003)
-3. (time permitting) Literature review brainstorming
+3. Additional time for discussion of Atkin and Tjoelker (2003)
+4. (time permitting) Literature review brainstorming
 
 ## Homework
 - TBD. The full citation and link can be found in the 
