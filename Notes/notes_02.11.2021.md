@@ -21,3 +21,6 @@
 ## In-class notes
 
 ## Post class notes
+- Class cancelled due to weather
+	- students still completed feedback and Miniquiz
+	- need to come up with a way for topic lead students to present
