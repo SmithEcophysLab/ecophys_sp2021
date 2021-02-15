@@ -16,8 +16,9 @@ of biosphere-atmosphere C exchange
 4. (time permitting) Literature review brainstorming
 
 ## Homework
-- Read Slot and Winter (2017). The full citation and link can be found in the 
-[Readings PDF](../Readings/readings_ecophys_sp2021.pdf).
+- Read Slot and Winter (2017).
+The full citation and link can be found in the 
+[class readings PDF](../Readings/readings_ecophys_sp2021.pdf).
 	- Complete associated feedback
 - Continue thinking about your literature review idea!
 	- undergrads: start forming groups
