@@ -11,7 +11,7 @@ of biosphere-atmosphere C exchange
 1. Go over last week's miniquiz
 	- [link to miniquiz 3](../MiniQuizzes/miniquiz3_02.11.2021.md)
 2. Lecture on temperature
-	- [Lecture slides](../Lecture_slides/slides_02.16.2021.pdf)
+	- [link to lecture slides](../Lecture_slides/slides_02.16.2021.pdf)
 3. Additional time for discussion of Atkin and Tjoelker (2003)
 4. (time permitting) Literature review brainstorming
 
