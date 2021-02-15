@@ -6,7 +6,7 @@
 
 ## Agenda
 1. Miniquiz 4
-	- [link to miniquiz 3](../MiniQuizzes/miniquiz4_02.25.2021.md)
+	- [link to miniquiz 4](../MiniQuizzes/miniquiz4_02.25.2021.md)
 2. Discussion of Slot and Winter (2017)
 	- lead: Peter
 3. (time permitting) Literature review discussion
