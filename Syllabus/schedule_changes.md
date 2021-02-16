@@ -15,7 +15,11 @@ written proposals.
 - March 8: CO2
 - March 15: Nutrients
 - March 22: Growth and Allocation
+	- **LITERATURE REVIEW PROPOSALS DUE BY 9:30 AM ON MARCH 22 (email ot Evan)**
+		- [review proposal rubric](../Rubrics/review_proposal_rubric.md)
 - March 29: Life cycles, ontogeny, and phenology
+	- **LITERATURE REVIEW PROPOSAL FEEDBACKS DUE BY 9:30 AM ON MARCH 29 (email ot Evan)**
+		- [review proposal feedback rubric](../Rubrics/review_proposal_feedback_rubric.md)
 - April 5: Competition
 - April 12: Symbioses
 - April 19: Scaling from cells to canopies to ecosystems to the globe
