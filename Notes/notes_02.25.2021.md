@@ -5,8 +5,8 @@
 - Discuss Slot and Winter (2017)
 
 ## Agenda
-1. Miniquiz 4
-	- [link to miniquiz 4](../MiniQuizzes/miniquiz4_02.25.2021.md)
+1. Discussion of Bennie et al. (2016)
+	- leads: Melody, Lamia, Ashley
 2. Discussion of Slot and Winter (2017)
 	- lead: Peter
 3. (time permitting) Literature review discussion
