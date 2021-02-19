@@ -21,6 +21,9 @@ of biosphere-atmosphere C exchange
 The full citation and link can be found in the 
 [class readings PDF](../Readings/readings_ecophys_sp2021.pdf).
 	- Complete associated feedback
+- Read Bennie et al. (2016). The full citation and link can be found in the 
+[class readings PDF](../Readings/readings_ecophys_sp2021.pdf).
+	- Complete associated feedback
 - Complete Miniquiz 4
 	- [link to miniquiz 4](../MiniQuizzes/miniquiz4_02.25.2021.md)
 	- Due: 5PM Feb 25 (email or turn in to [Evan](mailto:evan.a.perkowski@ttu.edu))
