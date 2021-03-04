@@ -2,12 +2,13 @@
 
 ## Objectives
 - Continue talking about plant-water relations
-- Discuss TBD
+- Discuss Li et al. (2017)
+	- lead: Sahar
 
 ## Agenda
 1. Miniquiz on plant-water relations + discussion
 	- [link Miniquiz 5](../MiniQuizzes/miniquiz5_03.04.2021.md)
-2. Discussion of TBD
+2. Discussion of Li et al. (2017)
 
 ## Homework
 - Read Bazzaz (1990). The full citation and link can be found in the 
