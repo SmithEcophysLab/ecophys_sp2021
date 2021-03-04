@@ -2,12 +2,13 @@
 
 ## Objectives
 - Continue talking about plant responses to CO2
-- Discuss TBD article
+- Discuss Swann et al. (2016)
 
 ## Agenda
 1. Mini-quiz on plant responses to CO2 + discussion
 	- [Link to Miniquiz 6](../MiniQuizzes/miniquiz6_03.11.2021.md)
-2. Discussion of TBD article
+2. Discussion of Swann et al. (2016)
+	- lead: Bishwoyog
 
 ## Homework
 - Read Lebauer and Treseder (2008). The full citation and link can be found in the 

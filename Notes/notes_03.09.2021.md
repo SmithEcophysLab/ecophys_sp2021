@@ -11,7 +11,7 @@
 4. (time permitting) Hypothesis development: tying together global change
 
 ## Homework
-- Read TBD. The full citation and link can be found in the 
+- Read Swann et al. (2016). The full citation and link can be found in the 
 [class readings PDF](../Readings/readings_ecophys_sp2021.pdf).
 - Continue doing background reading for your literature review
 
