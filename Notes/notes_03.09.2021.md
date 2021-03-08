@@ -5,9 +5,11 @@
 - Discuss Bazzaz (1990)
 
 ## Agenda
-1. Lecture on plant-CO2 responses
+1. Discussion of literature reviews and picking groups
+	- send groups by end of week
+2. Lecture on plant-CO2 responses
 	 - [Link to slides](../Lecture_slides/slides_03.09.2021.pdf)
-2. Discussion of Bazzaz (1990)
+3. Discussion of Bazzaz (1990)
 
 ## Homework
 - Read Swann et al. (2016). The full citation and link can be found in the 
