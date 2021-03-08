@@ -7,8 +7,7 @@
 ## Agenda
 1. Lecture on plant-CO2 responses
 	 - [Link to slides](../Lecture_slides/slides_03.09.2021.pdf)
-3. Discussion of Bazzaz (1990)
-4. (time permitting) Hypothesis development: tying together global change
+2. Discussion of Bazzaz (1990)
 
 ## Homework
 - Read Swann et al. (2016). The full citation and link can be found in the 
