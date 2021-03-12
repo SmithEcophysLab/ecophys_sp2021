@@ -12,7 +12,7 @@
 	- Introduce Jasper Ridge Global Change Experiment
 
 ## Homework
-- Read TBD article. The full citation and link can be found in the 
+- Read Delpiano et al. (2020) article. The full citation and link can be found in the 
 [class readings PDF](../Readings/readings_ecophys_sp2021.pdf).
 - Prepare your literature review proposal
 

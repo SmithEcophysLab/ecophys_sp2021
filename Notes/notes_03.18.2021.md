@@ -2,13 +2,14 @@
 
 ## Objectives
 - Continue talking about plant responses to nutrients
-- Discuss TBD article
+- Discuss Delpiano et al. (2020)
 - Tie together global change
 
 ## Agenda
 1. Miniquiz on plant responses to nutrients + discussion
 	- [Link to Miniquiz 7](../MiniQuizzes/miniquiz7_03.18.2021.md)
-2. Discussion of TBD
+2. Discussion of Delpiano et al. (2020)
+	- leads: Sabrina Campos, Erin Ozment, Gabriella Perez, Jose Villeda
 3. Discuss Jasper Ridge hypotheses
 
 ## Homework
