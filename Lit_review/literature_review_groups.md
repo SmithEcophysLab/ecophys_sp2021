@@ -3,7 +3,7 @@
 ## Due date reminders
 - March 23, 9:30 AM: literature review proposals due
 	- [link to review proposal rubric](../Rubrics/review_proposal_rubric.md)
-- March 29, 9:30 AM: feedback on proposals due
+- March 30, 9:30 AM: feedback on proposals due
 	- [link to review proposal feedback rubric](../Rubrics/review_proposal_feedback_rubric.md)
 - April 26, 9:30 AM: Literature review document due
 	- [link to literature review document rubric](../Rubrics/review_rubric.md)
