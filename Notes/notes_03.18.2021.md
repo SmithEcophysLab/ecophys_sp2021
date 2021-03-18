@@ -16,7 +16,7 @@
 - Read Mooney (1972). The full citation and link can be found in the 
 [class readings PDF](../Readings/readings_ecophys_sp2021.pdf).
 - Complete your literature review proposal.
-	- Due by 9:30 AM on March 22
+	- Due by 9:30 AM on March 23
 
 ## In-class notes
 
