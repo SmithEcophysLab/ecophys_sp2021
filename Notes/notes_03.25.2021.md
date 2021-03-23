@@ -18,7 +18,7 @@
 ## Homework
 - Read Givnish (2002) and complete feedback. The full citation and link can be found in the 
 [class readings PDF](../Readings/readings_ecophys_sp2021.pdf).
-- Complete feedback of assigned literature review proposal
+- Work on feedback of assigned literature review proposal (Due April 6 at 9:30 AM)
 
 ## In-class notes
 
