@@ -14,6 +14,6 @@ All BIOL 6350 (graduate section) students will be required to complete their own
 
 ## BIOL 4350 groups
 - Group 1: Lamia, Melody, Gabriella, Sabrina
-- Group 2: Ariana, Saray, Megan
+- Group 2: Ariana, Saray, Megan, Bryan, Ryan
 - Group 3: Baleigh, Rose, Jose, Erin
-- Group 4: Ashley, Bryan, Ryan
+- Group 4: Ashley
