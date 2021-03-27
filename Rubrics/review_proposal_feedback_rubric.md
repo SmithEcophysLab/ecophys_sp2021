@@ -9,6 +9,8 @@ This rubric is for those feedbacks. The rubric for the proposal itself can be fo
 make sure to provide suggestions for these improvements.
 
 ## Grading rubric (100 points)
+**Note that this is the rubric that Dr. Smith will be using to score your feedback.
+You should not assign a grade as part of your feedback.**
 
 ### Individual components
 1. Summary of the idea (20 points)
