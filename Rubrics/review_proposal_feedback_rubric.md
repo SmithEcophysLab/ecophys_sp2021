@@ -34,4 +34,4 @@ make sure to provide suggestions for these improvements.
 	proposal that you found most exciting and the aspect you felt could be most improved.
 	
 ### Due date
-March 30 at 9:30 AM (please email written proposal to [Evan](mailto:evan.a.perkowski@ttu.edu))
+April 6 at 9:30 AM (please email written proposal to [Evan](mailto:evan.a.perkowski@ttu.edu))
