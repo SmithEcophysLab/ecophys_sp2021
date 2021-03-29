@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  29 MAR 2021 12:54
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  29 MAR 2021 14:51
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -412,9 +412,14 @@ annurev . es . 03 . 110172 . 001531$[]
  []
 
 [4]
-Overfull \hbox (32.04381pt too wide) in paragraph at lines 167--168
-[][]$\T1/cmtt/m/n/12 https : / / onlinelibrary . wiley . com / doi / 10 . 1046 
-/ j . 1365-[]3040 . 1998 . 00280 . x$[] 
+! Misplaced alignment tab character &.
+l.164 ...Kuyper T.W., Leffelaar P.A., Hungria M. &
+                                                   Giller K.E. 2009.
+? 
+
+Overfull \hbox (25.37032pt too wide) in paragraph at lines 167--168
+[][]$\T1/cmtt/m/n/12 https : / / www . sciencedirect . com / science / article 
+/ pii / S0038071709000935$[] 
  []
 
 [5]
@@ -451,7 +456,7 @@ fonts/type1/public/cm-super/sftt1200.pfb></usr/local/texlive/2018/texmf-dist/fo
 nts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2018/texmf-dist/fonts/typ
 e1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/urw/
 helvetic/uhvro8a.pfb>
-Output written on readings_ecophys_sp2021.pdf (6 pages, 109433 bytes).
+Output written on readings_ecophys_sp2021.pdf (6 pages, 109061 bytes).
 PDF statistics:
  101 PDF objects out of 1000 (max. 8388607)
  86 compressed objects within 1 object stream
