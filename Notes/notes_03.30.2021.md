@@ -5,7 +5,7 @@
 - Discuss Givnish (2002)
 
 ## Agenda
-1. Lecture on life cycles phenology
+1. Lecture on life cycles and phenology
 	- [Link to slides](../Lecture_slides/slides_03.30.2021.pdf)
 2. Discussion of Givnish (2002)
 
