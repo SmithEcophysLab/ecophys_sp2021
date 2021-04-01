@@ -17,3 +17,5 @@
 ## In-class notes
 
 ## Post class notes
+- only made it to "phenology" section of the lecture
+	- pick this up on Thursday
