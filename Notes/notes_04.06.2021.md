@@ -7,7 +7,7 @@
 
 ## Agenda
 1. End of semester planning
-	- [End of semester schedule](../EoS_schedule/EoS_schedule.md)
+	- [End of semester schedule](../EoS_schedule/EoS_Schedule.md)
 	- Presentations begin April 27th
 		- let Nick know if you have a date preference
 	- Final papers dues May 4 at 9:30 AM (last day of class)
