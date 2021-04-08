@@ -11,6 +11,6 @@ following resources:
 2. Explain Grime’s Competitive-Stress Tolerant-Ruderal (C-S-R) plant strategy scheme? 
 Under what type of environments does each strategy thrive?
 
-3. Why do different plant strategies exist in the same environment?
+3. Why do different types of plant strategies exist in the same environment?
 
 4. Why do think you generally do not see plants with small leaves and large seeds?
