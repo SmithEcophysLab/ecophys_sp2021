@@ -5,7 +5,9 @@
 
 ## Agenda
 1. Mini-quiz 11
-2. Discussion of TBD
+	- [link to miniquiz](../MiniQuizzes/miniquiz11_04.15.2021)
+2. Discussion of Ziska et al. (2016)
+	- lead: Azaj
 
 ## Homework
 - Read Field et al. (2007) and complete feedback. The full citation and link can be found in the 
