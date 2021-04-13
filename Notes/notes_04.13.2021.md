@@ -9,7 +9,7 @@
 	- [Link to slides](../Lecture_Slides/slides_04.13.2021.pdf)
 
 ## Homework
-- Read TBD and complete feedback. The full citation and link can be found in the 
+- Read Ziska et al. (2016) and complete feedback. The full citation and link can be found in the 
 [class readings PDF](../Readings/readings_ecophys_sp2021.pdf).
 - Work on literature review
 
