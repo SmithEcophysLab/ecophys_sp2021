@@ -34,7 +34,7 @@ figures may be useful. Note that these can be redrawn from other articles provid
 proper citation is given.
 **Note: Reviews should review a problem or question, not a single paper!**
 An expanded description of a successful literature review can be found in the
-[Literature_Review folder](../Literature_Review/literature_review_description.md)
+[Literature_Review folder](../Lit_review/literature_review_description.md)
 
 ## Grading Rubric (100 points total)
 Both the review paper and oral presentation will be graded using the rubric below.
