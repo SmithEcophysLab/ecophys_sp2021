@@ -5,7 +5,7 @@
 
 ## Agenda
 1. Mini-quiz 11
-	- [link to miniquiz](../MiniQuizzes/miniquiz11_04.15.2021)
+	- [link to miniquiz](../MiniQuizzes/miniquiz11_04.15.2021.md)
 2. Discussion of Ziska et al. (2016)
 	- lead: Azaj
 
