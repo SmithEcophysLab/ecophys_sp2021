@@ -6,4 +6,4 @@
 
 2. What scales are you not working at for your literature that might be important for other studies/reviews to consider?
 
-3. Why is a model needed to make connections between scales?
+3. Why is a model useful for making connections between scales?
