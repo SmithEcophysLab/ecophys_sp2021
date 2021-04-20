@@ -5,7 +5,7 @@
 
 ## Agenda
 1. Lecture on scaling
-	- [link to lecture slides](../Lecture_slides/slides_04.20.2021)
+	- [link to lecture slides](../Lecture_slides/slides_04.20.2021.pdf)
 2. Discussion of Field et al. (2007)
 3. Time to work on literature reviews
 	- **Presentations start next week!!**
