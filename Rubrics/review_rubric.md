@@ -52,7 +52,7 @@ problem is important and was (or can be) addressed.
 
 ### Breadth and Originality (20 points)
 The review is sufficiently broad to address an outstanding question in the field
-of ecosystem ecology. The review should can combine known ideas to form
+of plant physiological ecology. The review should can combine known ideas to form
 a new idea, but must not be a simple reiteration of known facts.
 
 ### Scientific rigor (30 points)
