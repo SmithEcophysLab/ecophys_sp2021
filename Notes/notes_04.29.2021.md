@@ -9,7 +9,7 @@
 
 ## Homework
 - Work on literature review
-	- **Paper is due May 4 at 9:30 AM!!**
+	- **Paper is due May 4 at 9:30 AM**
 - fill out course evaluations
 
 ## In-class notes
